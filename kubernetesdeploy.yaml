@@ -28,7 +28,7 @@ metadata:
     app: healthapp-eta-app
 spec:
   selector:
-    app: healthapp-eta-app
+    app: health-eta-app
 
   type: NodePort
   ports:
